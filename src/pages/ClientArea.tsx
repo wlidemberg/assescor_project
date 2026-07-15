@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Lock, LogOut, CheckCircle, Calendar, CreditCard, Building, FileText, AlertCircle, Sparkles } from 'lucide-react';
+import { Lock, LogOut, CheckCircle, Calendar, CreditCard, Building, AlertCircle, Sparkles } from 'lucide-react';
 
 interface Obligation {
   id: string;

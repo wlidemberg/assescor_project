@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FileText, ArrowLeft, ArrowRight, CheckCircle2, Building2, UserPlus } from 'lucide-react';
+import { ArrowLeft, CheckCircle2, Building2, UserPlus } from 'lucide-react';
 
 type FlowType = 'legalizar' | 'migrar' | null;
 

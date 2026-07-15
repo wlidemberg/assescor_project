@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Bot, X, Send, User, ChevronDown } from 'lucide-react';
+import { Bot, X, Send, User } from 'lucide-react';
 
 interface Message {
   id: string;

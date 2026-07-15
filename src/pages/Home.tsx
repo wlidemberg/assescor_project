@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Calculator, ShieldCheck, TrendingUp, Users, Building, Percent } from 'lucide-react';
+import { ArrowRight, Calculator, ShieldCheck, TrendingUp, Users, Building } from 'lucide-react';
 
 export const Home: React.FC = () => {
   const [faturamento, setFaturamento] = useState<number>(30000);

@@ -1,5 +1,4 @@
 import React from 'react';
-import { MessageSquare } from 'lucide-react';
 
 export const WhatsAppButton: React.FC = () => {
   const phoneNumber = '551132548900';
